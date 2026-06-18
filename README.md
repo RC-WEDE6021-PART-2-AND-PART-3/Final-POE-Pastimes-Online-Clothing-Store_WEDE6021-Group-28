@@ -256,7 +256,7 @@ https://youtu.be/eXVb8InFZ7A
 
 ---
 
-## video presentation showcasing the website application of Pastimes Online Clothing Store
+## Video presentation showcasing the website application of Pastimes Online Clothing Store
 
 The Final POE video presentation is in a zipped file
 
